@@ -42,7 +42,7 @@ const socialLinks = [
   {
     name: "Email",
     icon: Mail,
-    url: "mailto:redaksi@timesmedia.co.id",
+    url: "mailto:redaksi@timesindonesia.co.id",
     color: "hover:bg-primary"
   }
 ];
