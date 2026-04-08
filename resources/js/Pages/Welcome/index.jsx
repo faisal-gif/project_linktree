@@ -15,6 +15,12 @@ const socialLinks = [
     url: "https://timesindonesia.co.id/",
     color: "hover:bg-primary"
   },
+   {
+    name: "Teras.id",
+    icon: Globe,
+    url: "https://www.teras.id/times-indonesia",
+    color: "hover:bg-primary"
+  },
   {
     name: "Facebook",
     icon: Facebook,
